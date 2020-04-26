@@ -22,7 +22,7 @@ In this homework assignment, you will help Harold accomplish the following tasks
 
 * Plotly Express
 * Hvplot
-* Panel - Holoviz - Dashboard
+* Panel - Holoviz (For creating Dashboard)
 * Mapbox Token
 
 
